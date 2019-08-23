@@ -1,6 +1,6 @@
 {
   "name": "eeschiavo-cordova-plugin-clipboard",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Clipboard management plugin for Cordova/PhoneGap",
   "cordova": {
     "id": "eeschiavo-cordova-plugin-clipboard",
